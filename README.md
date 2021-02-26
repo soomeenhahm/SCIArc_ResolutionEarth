@@ -11,6 +11,11 @@ How to:
 2. Import required packages listed below
 3. Import this package
 
-Required packages:  
-*. Ciconia Studio - Free Double Sided Shaders  
-*. TextMesh Pro  
+Required packages from Package Manager:  
+*. Post Processing 3.0.1  
+*. TextMeshPro 2.1.1  
+*. Unity Recorder 2.5.2  
+
+Required packages from Assets Store:  
+*. SCENE OBJ exporter - DUMMIESMAN  
+*. Free Double Sided Shaders - Ciconia Studio  
